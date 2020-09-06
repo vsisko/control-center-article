@@ -139,8 +139,8 @@ GridGain Ultimate Edition предлагает функционал снятия
 
 ## Ссылки и дополнительные материалы
 
-Сайт GridGain Control Center: https://control.gridgain.com/
-On-premises версия Control Center: https://www.gridgain.com/resources/download#controlcenter
-Документация Control Center: https://www.gridgain.com/docs/control-center/latest/overview
-Видео обзор возможностей Control Center (на английском): https://www.youtube.com/watch?v=6Ra_5agkeY4
-Пример подключения кластера Apache Ignite к Control Center (на русском): https://www.youtube.com/watch?v=5Dcn_8TWQuU
+- Сайт GridGain Control Center: https://control.gridgain.com/
+- On-premises версия Control Center: https://www.gridgain.com/resources/download#controlcenter
+- Документация Control Center: https://www.gridgain.com/docs/control-center/latest/overview
+- Видео обзор возможностей Control Center (на английском): https://www.youtube.com/watch?v=6Ra_5agkeY4
+- Пример подключения кластера Apache Ignite к Control Center (на русском): https://www.youtube.com/watch?v=5Dcn_8TWQuU
